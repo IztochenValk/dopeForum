@@ -1,0 +1,17 @@
+/* Header.css */
+
+.modal-content {
+    border-radius: 10px;
+}
+
+button.nav-link, .btn {
+    transition: background-color 0.3s;
+}
+
+    button.nav-link:hover, .btn:hover {
+        background-color: #007bff !important;
+    }
+
+.shadow {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+}

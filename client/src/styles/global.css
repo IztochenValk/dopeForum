@@ -1,0 +1,17 @@
+/* global.css */
+
+.main-container {
+    padding-top: 80px; /* Adjust based on Header height */
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+}
+
+p, a, button {
+    transition: all 0.3s ease;
+}
